@@ -3,7 +3,7 @@ import telegraph
 import datetime
 
 # Replace <YOUR_BOT_TOKEN> with your actual bot token
-bot = pyrogram.Client('my_bot', bot_token='<YOUR_BOT_TOKEN>')
+bot = pyrogram.Client('my_bot', bot_token='6263204368:AAEtLDIrYTwAzWN-Qtk7LcYQXHvOGAIaSCY')
 
 # Replace <YOUR_CHANNEL_NAME> with the name of the channel you want to collect posts from
 channel_name = '@rk_update'
