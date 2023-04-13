@@ -1,2 +1,2 @@
-python-telegram-bot
-telegraph
+python-telegram-bot>=13.7
+telegraph>=0.20.0
