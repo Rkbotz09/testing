@@ -1,1 +1,2 @@
-web: python rkbotz.py
+web: python3 rkbotz.py
+
